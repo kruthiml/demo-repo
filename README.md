@@ -1,3 +1,5 @@
 # Demo
 
-Demo description.
+This is First Git Demo description.
+<br>
+Author - Haneul
